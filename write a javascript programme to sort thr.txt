@@ -1,0 +1,4 @@
+write a javascript programme to sort three numbers 
+numbers :: 3, -7, 2
+o/p => -7, 2, 3 or 3, 2, -7
+
